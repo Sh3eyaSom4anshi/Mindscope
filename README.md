@@ -4,7 +4,6 @@
   <em>Understanding personality traits and predicting whether someone is an <b>introvert</b> or an <b>extrovert</b> using data analysis and machine learning.</em>
 </p>
 
----
 
 ## ✨ Project Overview
 This project explores how **personality traits, behaviours, and lifestyle choices** can be analyzed to classify people as **introverts** or **extroverts**.  
@@ -14,14 +13,14 @@ The main objectives were:
 - To **visualize personality traits** using various data visualization techniques.  
 - To **build predictive models** using `scikit-learn` for personality classification.  
 
----
+
 
 ## 📖 Problem Statement
 Personality is an important factor in areas like education, career, and relationships. Introverts and extroverts often exhibit distinct behavioural patterns. By analyzing personality-related data, we can:
 - Identify **factors influencing personality type**.  
 - Build a simple **classification model** that predicts whether someone is introverted or extroverted based on their traits.  
 
----
+
 
 ## 🛠 Tech Stack
 - **Programming Language:** Python 🐍  
@@ -31,11 +30,6 @@ Personality is an important factor in areas like education, career, and relation
   - `scikit-learn` → Machine learning models & evaluation  
   - `jupyter` → Interactive development & documentation  
 
----
-
-## 📂 Repository Structure
-
----
 
 ## 🔬 Methodology
 1. **Data Collection**  
@@ -88,9 +82,5 @@ Examples of plots used in analysis (to be added in `assets/` folder):
 
 ---
 
-## ▶️ How to Run
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/personality-analysis.git
-cd personality-analysis
+
 
